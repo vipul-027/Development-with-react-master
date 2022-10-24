@@ -1,0 +1,23 @@
+{
+  "name": "development-with-react",
+  "version": "1.0.0",
+  "description": "This is a directory to learn react ",
+  "main": "index.html",
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vipul-027/Development-with-react.git"
+  },
+  "author": "vipul kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vipul-027/Development-with-react/issues"
+  },
+  "homepage": "https://github.com/vipul-027/Development-with-react#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
